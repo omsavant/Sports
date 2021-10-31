@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    font-family: cursive;
+}
+#pic1{
+    height: 300px;
+    width: 300px;
+    margin-left: 400px;
+}
